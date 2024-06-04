@@ -53,3 +53,5 @@ const passwrdLength = 12;
 displayPassword(passwrdLength);
 
 console.log("Neka promena");
+console.log("Neka promena");
+console.log("Neka promena");
